@@ -89,7 +89,7 @@ body{
 	font-size: 15px;
 	font-weight: 400;
 }
-#order-call, #calc-cost{
+#order-call, #calc-cost, #order-measure{
 	background: white;
 	padding: 20px 30px;
 	text-align: left;

@@ -33,7 +33,7 @@ $(function(){
 			}
 		}
 	});
-	$('a[href="#order-call"]').magnificPopup({
+	$('a[href="#order-call"], a[href="#order-measure"]').magnificPopup({
 		type: 'inline',
 		removalDelay: 200,
 		mainClass: 'my-mfp-slide-bottom'
